@@ -20,12 +20,14 @@ ul{
     background: black;
     color: #fff;
     height: 8vh;
+    margin-bottom: 2vh;
 }
 .navbar a{
     color: #fff;
     text-decoration: white;
     font-size: 20px;
     font-weight: bold;
+    
 
 }
 .navbar a:hover{
@@ -160,6 +162,7 @@ td {
         text-decoration: white;
         font-size: 15px;
         font-weight: bold;
+    
     
     }
 
