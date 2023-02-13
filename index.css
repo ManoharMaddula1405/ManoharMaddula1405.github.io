@@ -29,7 +29,7 @@ ul{
 .navbar{
     background: black;
     color: #fff;
-    height: 8vh;
+    height: 60px;
     width: 100vw;
 }
 .navbar a{
