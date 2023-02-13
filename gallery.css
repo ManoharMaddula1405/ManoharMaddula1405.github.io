@@ -51,12 +51,6 @@ ul{
     max-width: 1100px;
     margin: 0 auto;
 }
-
-
-
-
-
-
 .containergrid{
     max-width: 1100px;
     margin: 100px auto;
@@ -66,8 +60,6 @@ ul{
     row-gap: 10px;
     align-items: stretch;
     grid-template-columns: repeat(auto-fill,minmax(200px,1fr));
-
-
 }
 .item{
     
