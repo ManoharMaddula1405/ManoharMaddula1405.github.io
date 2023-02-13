@@ -54,7 +54,8 @@ ul{
     height: 100%;
 }
 .navbar ul{
-    display:flex
+    display:flex;
+    flex:wrap;
 }
 .navbar ul li{
     margin-left: 20px;
@@ -97,3 +98,12 @@ ul{
         text-align: center;
     }
 }
+
+/*
+@media (max-width: 768px) {
+    .navbar ul {
+      display: none;
+    }
+    # to be implemented 
+  }
+*/
