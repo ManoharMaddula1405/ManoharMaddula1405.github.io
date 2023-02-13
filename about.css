@@ -25,10 +25,9 @@ ul{
 .navbar a{
     color: #fff;
     text-decoration: white;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
-    
-
+    margin-bottom: 2vh;
 }
 .navbar a:hover{
     color: lightblue;
