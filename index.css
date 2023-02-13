@@ -116,6 +116,17 @@ ul{
     
     }
 }
+@media(max-height:400px){
+    .header .container{
+        display: flex;
+        flex:1 0 20%;
+        align-items: center;
+        justify-content: space-between;
+        height: 94vh;
+        margin-top: 22%;
+    
+    }
+}
 
 
 /*
