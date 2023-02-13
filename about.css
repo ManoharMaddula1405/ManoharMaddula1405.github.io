@@ -24,8 +24,9 @@ ul{
 .navbar a{
     color: #fff;
     text-decoration: white;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
+
 }
 .navbar a:hover{
     color: lightblue;
@@ -141,7 +142,7 @@ td {
     margin-bottom: 10px;
 }
   
-@media (max-width: 767px){
+@media (max-width: 500px){
     table {
       width: 100%;
     }
@@ -154,5 +155,13 @@ td {
     .achievements li, .certifications li {
       font-size: 14px;
     }
+    .navbar a{
+        color: #fff;
+        text-decoration: white;
+        font-size: 15px;
+        font-weight: bold;
+    
+    }
+
   }
   
