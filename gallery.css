@@ -80,4 +80,12 @@ img{
         flex-wrap: wrap;
         justify-content: center;
     }
+    .navbar a{
+        color: #fff;
+        text-decoration: white;
+        font-size: 15px;
+        font-weight: bold;
+    
+    
+    }
 }

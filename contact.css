@@ -127,4 +127,12 @@ p a{
         margin-left: 2vw;
         max-width: 96vw;
     }
+    .navbar a{
+        color: #fff;
+        text-decoration: white;
+        font-size: 15px;
+        font-weight: bold;
+    
+    
+    }
   }
